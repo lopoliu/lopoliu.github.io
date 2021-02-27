@@ -1,7 +1,7 @@
 ---
 home: true
-heroText: lopo
-tagline: .
+heroText: lopo's blog
+tagline: 存在即合理。
 # heroImage: /hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',
@@ -15,7 +15,9 @@ bgImageStyle: {
   height: '450px'
 }
 isShowTitleInHome: false
+
 actionText: Guide
+
 actionLink: /views/other/guide
 features:
 - title: Yesterday

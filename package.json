@@ -1,14 +1,23 @@
 {
-  "name": "",
+  "name": "lopo",
   "version": "1.0.0",
-  "author": "reco_luan",
+  "author": "lopo",
   "scripts": {
     "dev": "vuepress dev . --open --host \"localhost\"",
     "build": "vuepress build ."
   },
   "devDependencies": {
+    "@vuepress-reco/vuepress-plugin-bgm-player": "^1.1.2",
+    "@vuepress-reco/vuepress-plugin-pagation": "",
+    "@vuepress/plugin-nprogress": "^1.4.0",
     "vuepress": "1.7.1",
+    "vuepress-plugin-flowchart": "^1.4.3",
+    "vuepress-plugin-reading-progress": "^1.0.8",
     "vuepress-theme-reco": "1.6.1"
   },
-  "description": ""
+  "description": "qweqweqweqweqw",
+  "dependencies": {
+    "@vuepress/plugin-back-to-top": "^1.8.2",
+    "vuepress-plugin-gotop-plus": "^1.0.4"
+  }
 }

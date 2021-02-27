@@ -1,11 +1,14 @@
-# 第十二课：scrapy爬虫中间和信号
+---
+title: scrapy爬虫中间和信号
+date: 2020-05-20
+tags:
+ - scrapy
+ - spider
+categories:
+ - python
+---
 
 ## 蜘蛛中间件
-
-
-
-
-
 
 
 ## 下载中间件

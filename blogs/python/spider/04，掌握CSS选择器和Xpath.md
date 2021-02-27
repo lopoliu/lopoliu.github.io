@@ -1,4 +1,12 @@
-# 第四课：掌握CSS选择器和Xpath
+---
+title: 掌握CSS选择器和Xpath
+date: 2020-03-19
+tags:
+ - scrapy
+ - spider
+categories:
+ - python
+---
 
 ## 一、CSS选择器
 

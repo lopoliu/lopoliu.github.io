@@ -1,4 +1,13 @@
-# 详解ORM的基本使用
+---
+title: 详解ORM的基本使用
+date: 2019-04-03
+tags:
+ - django
+ - web开发
+categories:
+ - python
+---
+
 
 ## 一、ORM的字段
 

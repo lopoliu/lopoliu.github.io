@@ -1,4 +1,12 @@
-# django模板语言
+---
+title: django模板语言
+date: 2019-04-01
+tags:
+ - django
+ - web开发
+categories:
+ - python
+---
 
 ## 加载静态文件
 

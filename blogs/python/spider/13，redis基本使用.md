@@ -1,5 +1,12 @@
-# 第十三课：Redis基本使用
-
+---
+title: Redis基本使用
+date: 2020-05-22
+tags:
+ - scrapy
+ - spider
+categories:
+ - python
+---
 ## 安装redis
 
 配置环境变量

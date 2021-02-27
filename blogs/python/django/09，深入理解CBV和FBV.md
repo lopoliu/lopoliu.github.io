@@ -1,3 +1,13 @@
+---
+title: CBV和FBV
+date: 2019-04-22
+tags:
+ - django
+ - web开发
+categories:
+ - python
+---
+
 # CBV和FBV
 
 FBV：基于函数视图

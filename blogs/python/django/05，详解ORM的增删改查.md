@@ -1,6 +1,12 @@
-# ORM中的增删改查
-
-案例实现增删改查
+---
+title: ORM中的增删改查
+date: 2019-04-02
+tags:
+ - django
+ - web开发
+categories:
+ - python
+---
 
 ## 查询
 

@@ -1,4 +1,14 @@
-# 初识Django中的ORM
+---
+title: 初识Django中的ORM
+date: 2020-03-29
+tags:
+ - django
+ - web开发
+categories:
+ - python
+---
+
+# 
 
 ## 什么是ORM
 

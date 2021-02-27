@@ -1,4 +1,14 @@
-## 第一课：django快速入门
+---
+title: django快速入门
+date: 2020-03-15
+tags:
+ - django
+ - web开发
+categories:
+ - python
+---
+
+## 第一课：
 
 ## Django简介
 

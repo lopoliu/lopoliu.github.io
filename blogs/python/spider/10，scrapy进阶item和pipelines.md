@@ -1,5 +1,12 @@
-# 第十课：scrapy进阶item和pipelines使用
-
+---
+title: scrapy进阶item和pipelines使用
+date: 2020-05-08
+tags:
+ - scrapy
+ - spider
+categories:
+ - python
+---
 
 
 ## 终端指令保存文件

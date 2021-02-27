@@ -1,4 +1,12 @@
-# 第十一课：scrapy模拟登录
+---
+title: scrapy模拟登录
+date: 2020-05-10
+tags:
+ - scrapy
+ - spider
+categories:
+ - python
+---
 
 ## from_requests
 

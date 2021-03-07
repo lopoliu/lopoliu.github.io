@@ -4,7 +4,7 @@ heroText: lopo's blog
 tagline: 存在即合理。
 heroImage: /avatar.png
 heroImageStyle: {
-  maxWidth: '235px',
+  maxWidth: '215px',
   width: '100%',
   display: block,
   margin: '1rem auto 2rem',

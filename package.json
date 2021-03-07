@@ -10,13 +10,16 @@
     "@vuepress-reco/vuepress-plugin-bgm-player": "^1.1.2",
     "@vuepress/plugin-nprogress": "^1.4.0",
     "vuepress": "1.7.1",
+    "vuepress-plugin-flexsearch-pro": "^1.0.3",
     "vuepress-plugin-flowchart": "^1.4.3",
     "vuepress-plugin-reading-progress": "^1.0.8",
+    "vuepress-plugin-ribbon": "^1.0.4",
     "vuepress-theme-reco": "1.6.1"
   },
   "description": "存在即合理。",
   "dependencies": {
     "@vuepress/plugin-back-to-top": "^1.8.2",
+    "vuepress-plugin-comment": "^0.7.3",
     "vuepress-plugin-gotop-plus": "^1.0.4"
   }
 }

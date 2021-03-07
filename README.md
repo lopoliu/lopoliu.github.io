@@ -2,14 +2,14 @@
 home: true
 heroText: lopo's blog
 tagline: 存在即合理。
-heroImage: /hero.png
+heroImage: /avatar.png
 heroImageStyle: {
-  maxWidth: '600px',
+  maxWidth: '235px',
   width: '100%',
   display: block,
-  margin: '9rem auto 2rem',
+  margin: '1rem auto 2rem',
   background: '#fff',
-  borderRadius: '1rem',
+  borderRadius: '30rem',
 }
 bgImageStyle: {
   height: '450px'

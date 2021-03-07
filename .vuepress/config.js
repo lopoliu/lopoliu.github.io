@@ -2,6 +2,7 @@ module.exports = {
     "title": "波波波的blog",
     "description": "时间就是金钱，效率就是生命。",
     "dest": "docs",
+    "theme": "reco",
     "head": [
         [
             "link",
@@ -18,8 +19,12 @@ module.exports = {
             }
         ]
     ],
-    "theme": "reco",
     "themeConfig": {
+        valineConfig: {
+            appId: '35PeOlaces2fDlrxqFJenXss-gzGzoHsz',
+            appKey: 'lNrIwQaDcm0S2xT1aqOnae7Y'
+        },
+        smoothScroll: true,
         "nav": [
             {
                 "text": "首页",
@@ -87,8 +92,14 @@ module.exports = {
     },
     plugins: [
         ['@vuepress/plugin-back-to-top', true],
-        // [
-        //     'vuepress-plugin-gotop-plus'
-        // ],
+        ['flexsearch-pro'],
+        [
+            'ribbon',
+            {
+                size: 90, // width of the ribbon, default: 90
+                opacity: 0.8, // opacity of the ribbon, default: 0.3
+                zIndex: -1, // z-index property of the background, default: -1
+            },
+        ]
     ]
 }

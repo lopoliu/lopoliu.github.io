@@ -1,7 +1,7 @@
 module.exports = {
     "title": "波波波的blog",
     "description": "时间就是金钱，效率就是生命。",
-    "dest": "public",
+    "dest": "docs",
     "head": [
         [
             "link",
